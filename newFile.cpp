@@ -48,4 +48,8 @@ int main() {
 	
 	cout << "Day 1 Answer: " << dayOneAnswer << endl;
 	
+<<<<<<< HEAD
+=======
 	return 0;
+>>>>>>> e00ff13284112edfe54bce3c8bd26627c65c6449
+}
